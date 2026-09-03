@@ -1,0 +1,10 @@
+{
+  "name": "流转账本",
+  "short_name": "流转账本",
+  "description": "保留原币的中日双向记账工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#4667d9",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
