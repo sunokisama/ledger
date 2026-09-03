@@ -15,6 +15,13 @@
       "when": 1788438662282,
       "tag": "0001_graceful_meltdown",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788442935658,
+      "tag": "0002_condemned_purple_man",
+      "breakpoints": true
     }
   ]
 }
